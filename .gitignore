@@ -23,9 +23,9 @@ wheels/
 .installed.cfg
 *.egg
 
-# Audio cache (temporary files)
-Orchestrator/audio_cache/
-**/audio_cache/
+# Audio cache (temporary files) - exclude contents but keep folder structure
+Orchestrator/audio_cache/*
+!Orchestrator/audio_cache/.gitkeep
 
 # Voice samples (users provide their own)
 Orchestrator/voices/*.wav
