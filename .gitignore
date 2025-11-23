@@ -27,8 +27,9 @@ wheels/
 Orchestrator/audio_cache/*
 !Orchestrator/audio_cache/.gitkeep
 
-# Voice samples (users provide their own)
+# Voice samples (users provide their own, but include narrator.wav as example)
 Orchestrator/voices/*.wav
+!Orchestrator/voices/narrator.wav
 !Orchestrator/voices/.gitkeep
 
 # IDE
