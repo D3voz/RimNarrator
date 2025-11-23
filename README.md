@@ -93,12 +93,6 @@ Open a terminal in the `RimNarrator/Orchestrator/` folder:
 pip install fastapi uvicorn soundfile numpy pyyaml requests
 ```
 
-Or use the requirements file:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Step 3: Install TTS WebUI
 
 Follow instructions at: <https://github.com/rsxdalv/TTS-WebUI>
