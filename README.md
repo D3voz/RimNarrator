@@ -76,7 +76,7 @@ Transform your RimWorld experience with real-time AI narration. Events, letters,
 
 ### Step 1: Install the RimWorld Mod
 
-1. Download the mod from [GitHub Releases](#) or Steam Workshop
+1. Download the mod  - git clone https://github.com/D3voz/RimNarrator
 2. Extract to your RimWorld `Mods` folder:
 
 ```
